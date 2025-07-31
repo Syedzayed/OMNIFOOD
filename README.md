@@ -148,8 +148,24 @@ Privacy & terms
 
 ---
 
+
 ## 👨‍💻 Author
 
 **Syed Zayed Ahmed**  
-Front-End Developer | UI/UX Designer  
-📇 [LinkedIn](https://www.linkedin.com/in/syedzayedahmed)
+Front-End Developer | UI/UX Designer
+
+## 📧 Contact
+
+- ✉️ **Email:** [syedzayedahmed2004@gmail.com](mailto:syedzayedahmed2004@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/syedzayedahmed](https://www.linkedin.com/in/syedzayedahmed/)  
+- 🌐 **Portfolio:** [zayedahmed.in](https://www.zayedahmed.in/)
+
+
+---
+
+## 📆 Development Progress
+
+Last Updated: **JULY 2025**  
+Track progress through [commits](https://github.com/Syedzayed/OMNIFOOD/commits/main) and changelog.
+
+🌟 **Star this repo** to support and follow the journey!
